@@ -1,0 +1,15 @@
+<html>
+<head></head>
+<style>
+</style>
+<body>
+   <p> Hello ${apprName},</p>
+   <p> ${selfName} has submitted his/her self-assessment form on ${selfCompletionDate}.</p>
+   <p> Please complete his/her appraiser assessment by ${appraiserAssessmentDuration} by clicking on this <a href="${url}">link</a></p> 
+      <br>
+    Best Regards,<br>
+PMS Team<br>
+   
+    
+</body>
+</html>

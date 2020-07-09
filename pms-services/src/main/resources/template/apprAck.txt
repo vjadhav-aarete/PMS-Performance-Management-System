@@ -1,0 +1,14 @@
+<html>
+<head></head>
+<style>
+</style>
+<body>
+   <p>Hello ${apprName},</p>
+   <p>Thank you!</p>
+   <p>You have successfully submitted appraiser assessment for ${selfName} on ${selfCompletionDate}</p> 
+
+    <br>
+    Best Regards,<br>
+    PMS Team<br>
+</body>
+</html>
